@@ -92,11 +92,11 @@ Output Layer (5 or 4 neurons, Sigmoid)
 ```
 .
 ├── models/
-│   ├── model-1.ipynb                              # Baseline 5-class CNN
-│   ├── model-2-class-specific-oversampling.ipynb  # Improved 5-class CNN
-│   └── model-3-exclude-epidural.ipynb             # 4-class CNN (no EDH)
+│   ├── model-1.ipynb
+│   ├── model-2-class-specific-oversampling-approach.ipynb 
+│   └── model-3-exclude-epidural.ipynb
 ├── paper/
-│   └── CLASSIFICATION_OF_BRAIN_HEMORRHAGES_USING_CONVOLUTIONAL_NEURAL_NETWORKS.pdf
+│   └── CLASSIFICATION_OF_BRAIN_HEMORRHAGES_USING_CONVOLUTIONAL_NEURAL_NETWORKS-4.pdf
 ├── results/
 │   └── figures/                                    # Training curves and visualizations
 ├── README.md
