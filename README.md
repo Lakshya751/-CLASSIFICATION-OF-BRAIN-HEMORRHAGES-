@@ -10,7 +10,7 @@ A machine learning approach for automated classification of intracranial hemorrh
 **Institution**: Norwich University - Senator Patrick Leahy School of Cybersecurity and Advanced Computing  
 **Contact**: shahlakshya751@gmail.com
 
-[Read the full paper](paper/CLASSIFICATION_OF_BRAIN_HEMORRHAGES_USING_CONVOLUTIONAL_NEURAL_NETWORKS.pdf)
+[Read the full paper](paper/ CLASSIFICATION_OF_BRAIN_HEMORRHAGES_USING_CONVOLUTIONAL_NEURAL_NETWORKS-4.pdf)
 
 ## 🎯 Project Overview
 
