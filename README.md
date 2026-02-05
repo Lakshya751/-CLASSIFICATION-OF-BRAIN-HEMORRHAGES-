@@ -88,20 +88,21 @@ Output Layer (5 or 4 neurons, Sigmoid)
   - scikit-learn
 
 ## 📁 Repository Structure
-
 ```
 .
 ├── models/
 │   ├── model-1.ipynb
-│   ├── model-2-class-specific-oversampling-approach.ipynb 
+│   ├── model-2-class-specific-oversampling-approach.ipynb
 │   └── model-3-exclude-epidural.ipynb
 ├── paper/
 │   └── CLASSIFICATION_OF_BRAIN_HEMORRHAGES_USING_CONVOLUTIONAL_NEURAL_NETWORKS-4.pdf
 ├── results/
-│   └── figures/                                    # Training curves and visualizations
+│   └── figures/
 ├── README.md
-└── LICENSE
-
+├── LICENSE
+├── requirements.txt
+├── CONTRIBUTING.md
+└── SETUP.md
 ```
 
 ## 🚀 Getting Started
