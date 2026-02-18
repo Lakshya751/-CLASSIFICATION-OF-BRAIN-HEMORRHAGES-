@@ -194,4 +194,4 @@ This project is available for academic and research purposes. Please contact the
 
 ---
 
-**Acknowledgments**: This research was conducted using the RSNA 2019 Brain CT Hemorrhage Challenge dataset provided by the Radiological Society of North America (RSNA).
+**Acknowledgments**: This research was conducted using the RSNA 2019 Brain CT Hemorrhage Challenge dataset provided by the Radiological Society of North America (RSNA). The dataset is available of Kaggle
